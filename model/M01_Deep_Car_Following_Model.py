@@ -13,6 +13,8 @@ The loss is calculated on training and validation and its interperation is how w
 is doing for these two sets. Unlike accuracy, loss is not a percentage. 
 It is a summation of the errors made for each example in training or validation sets.
 
+Add something to test Github
+
 In the case of neural networks, the loss is usually negative log-likelihood and 
 residual sum of squares for classification and regression respectively. 
 Then naturally, the main objective in a learning model is to reduce (minimize) 
